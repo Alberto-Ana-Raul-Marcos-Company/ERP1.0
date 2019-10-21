@@ -1,0 +1,16 @@
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\NITRO_RAAM.exe.config
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\NITRO_RAAM.exe
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\NITRO_RAAM.pdb
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.Properties.Resources.resources
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.csproj.GenerateResource.cache
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.exe
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.pdb
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.Principal.resources
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\MetroFramework.dll
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.csproj.CopyComplete
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\MetroFramework.Design.dll
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\MetroFramework.Fonts.dll
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.csprojAssemblyReference.cache
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\obj\Debug\NITRO_RAAM.Login.resources
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\BBDD.mdf
+D:\Usuario\Documents\Anabel\DAM\2º\SGE\ERP1\NITRO_RAAM\NITRO_RAAM\bin\Debug\BBDD_log.ldf
